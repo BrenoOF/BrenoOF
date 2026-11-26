@@ -1,5 +1,5 @@
 <!-- Banner Cabeçalho -->
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:130552,35:2441e1,75:65026d,100:e70b90&height=200&section=header&text=Breno%20Oliveira%20Fidelis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React&descAlignY=60&descSize=16](https://capsule-render.vercel.app/api?type=waving&height=400&color=0%3A130552%2C%3A2441e1%2C75%3A65026d%2C100%3Ae70b90&section=header&reversal=false&text=Breno+Oliveira+Fidelis&textBg=false&fontColor=FFFFFF&fontSize=60&fontAlign=50&fontAlignY=43&animation=fadeIn&rotate=0&strokeWidth=0&desc=Desenvolvedor+Full+Stack&descSize=35&descAlign=50&descAlignY=57)" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:130552,35:2441e1,75:65026d,100:e70b90&height=200&section=header&text=Breno%20Oliveira%20Fidelis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React&descAlignY=60&descSize=16](https://capsule-render.vercel.app/api?type=waving&height=400&color=0%3A130552%2C%3A2441e1%2C75%3A65026d%2C100%3Ae70b90&section=header&reversal=false&text=Breno+Oliveira+Fidelis&textBg=false&fontColor=FFFFFF&fontSize=60&fontAlign=50&fontAlignY=43&animation=fadeIn&rotate=0&strokeWidth=0&desc=Desenvolvedor+Full+Stack&descSize=35&descAlign=50&descAlignY=57)](https://capsule-render.vercel.app/api?type=waving&height=400&color=0%3A130552%2C%3A2441e1%2C75%3A65026d%2C100%3Ae70b90&section=header&reversal=false&text=Breno+Oliveira+Fidelis&textBg=false&fontColor=FFFFFF&fontSize=60&fontAlign=50&fontAlignY=43&animation=fadeIn&rotate=0&strokeWidth=0&desc=Desenvolvedor+Full+Stack&descSize=35&descAlign=50&descAlignY=57" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -37,21 +37,10 @@ Desenvolvedor focado em arquitetura backend, APIs RESTful seguras e automação 
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=BrenoOF&show_icons=true&include_all_commits=true&count_private=true&bg_color=130552&title_color=e70b90&text_color=ffffff&icon_color=2441e1&border_color=65026d" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoOF&layout=compact&langs_count=6&bg_color=130552&title_color=e70b90&text_color=ffffff&border_color=65026d" />
-</div>
-
-<div align="center">
   <img height="175em" src="https://streak-stats.demolab.com?user=BrenoOF&background=130552&border=65026d&ring=e70b90&fire=2441e1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e70b90&sideLabels=2441e1&dates=e70b90" />
 </div>
 
 ---
 
-### 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BrenoOF/BrenoOF/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
 <!-- Banner Rodapé -->
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:e70b90,25:65026d,65:2441e1,100:130552](https://capsule-render.vercel.app/api?type=waving&height=400&color=0%3A130552%2C%3A2441e1%2C75%3A65026d%2C100%3Ae70b90&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60&fontAlign=50&fontAlignY=43&animation=fadeIn&rotate=0&strokeWidth=0&descSize=35&descAlign=50&descAlignY=57)&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0%3A130552%2C%3A2441e1%2C75%3A65026d%2C100%3Ae70b90&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60&fontAlign=50&fontAlignY=43&animation=fadeIn&rotate=0&strokeWidth=0&descSize=35&descAlign=50&descAlignY=57" />
