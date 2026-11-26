@@ -1,5 +1,5 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:130552,35:2441e1,75:65026d,100:e70b90&section=header&text=Breno%20Oliveira%20Fidelis&fontColor=FFFFFF&fontSize=45&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Backend%20%26%20DevOps&descSize=19&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%3A130552%2C%3A2441e1%2C75%3A65026d%2C100%3Ae70b90+&section=header&reversal=false&text=Breno+Oliveira+Fidelis&textBg=false&fontColor=FFFFFF&fontSize=50&fontAlign=50&fontAlignY=38&rotate=0&strokeWidth=0&desc=Full+Stack+Developer&descSize=35&descAlign=50&descAlignY=56" />
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E70B90&center=true&vCenter=true&width=700&lines=Backend+Engineering+%26+Full+Stack+Development;Microsservi%C3%A7os+%7C+APIs+REST+%7C+Bancos+de+Dados;DevOps+%7C+Cloud+Computing+%7C+CI%2FCD;Intelig%C3%AAncia+Artificial+aplicada+ao+software" alt="Áreas de atuação" />
@@ -128,4 +128,4 @@ Interesses: Engenharia de Software, desenvolvimento backend, computação em nuv
   <a href="mailto:fobreno@gmail.com"><img src="https://img.shields.io/badge/Entre_em_contato-e70b90?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:130552,35:2441e1,75:65026d,100:e70b90&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0%3A130552%2C%3A2441e1%2C75%3A65026d%2C100%3Ae70b90+&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=50&fontAlign=50&fontAlignY=38&rotate=0&strokeWidth=0&descSize=35&descAlign=50&descAlignY=56" />
