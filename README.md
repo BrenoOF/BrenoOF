@@ -1,5 +1,5 @@
 <!-- Banner Cabeçalho -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0%3A130552%2C%3A2441e1%2C75%3A65026d%2C100%3Ae70b90&section=footer&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=60&fontAlign=50&fontAlignY=43&animation=fadeIn&rotate=0&strokeWidth=0&descSize=35&descAlign=50&descAlignY=57" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=400&color=0%3A130552%2C%3A2441e1%2C75%3A65026d%2C100%3Ae70b90&section=header&reversal=false&text=Breno+Oliveira+Fidelis&textBg=false&fontColor=FFFFFF&fontSize=60&fontAlign=50&fontAlignY=43&animation=fadeIn&rotate=0&strokeWidth=0&desc=Desenvolvedor+Full+Stack&descSize=35&descAlign=50&descAlignY=57" />
 
 <div align="center">
   <a href="https://git.io/typing-svg">
